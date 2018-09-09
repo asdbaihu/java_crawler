@@ -1,0 +1,6 @@
+aws:
+  enable: true
+logging:
+  pattern:
+    console: "%d-%msg%n"
+  path: ./log
